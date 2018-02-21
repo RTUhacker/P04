@@ -1,15 +1,10 @@
 # p4
-sadfasdftest
- testse 
-t
-es t
-se
- t
-as
-df
-g sdf 
-gsd
-f gsd
-fgsd
-fgs
-d
+
+created file readme
+added some text
+commited 
+removed file readme
+commited
+restored commit with branch checkout
+commited to new branch
+
