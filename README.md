@@ -1,17 +1,17 @@
-# p4
+# P04
 
-#created file readme
+1.created file readme
 
-#added some text
+1.added some text
 
-#commited 
+1.commited 
 
-#removed file readme
+1.removed file readme
 
-#commited
+1.commited
 
-#restored commit with branch checkout
+1.restored commit with branch checkout
 
-#commited to new branch
+1.commited to new branch
 
-#merged branches
+1.merged branches
